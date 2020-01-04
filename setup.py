@@ -15,7 +15,7 @@ setup(
     long_description=long_description,
     author='Russell Keith-Magee',
     author_email='russell@keith-magee.com',
-    url='http://github.org/pybee/tkreadonly',
+    url='http://github.com/pybee/tkreadonly',
     py_modules=[
         'tkreadonly',
     ],
